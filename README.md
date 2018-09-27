@@ -1,3 +1,3 @@
 # ETF-RG-2D
 
-Zadatak D - nadogradnja Lab2.
+Školska 2017/18. godina, zadatak D - nadogradnja Lab2.
