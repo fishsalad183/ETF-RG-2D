@@ -1,3 +1,5 @@
-# ETF-RG-2D
-Domaći zadatak iz Računarske grafike, JavaFX 2D.
-Školska 2017/18. godina, zadatak D - nadogradnja Lab2.
+# ETF-RG-2D / Computer Graphics - 2D project
+
+Homework project for Computer Graphics course. School year 2017/18, task D: a Space Invaders clone.
+
+Tech: JavaFX.
